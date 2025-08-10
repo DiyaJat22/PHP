@@ -38,35 +38,6 @@ Each topic is organized into a separate markdown file for focused learning and e
 - [PHP Form Validation](php-form-validation.md) — Validating form data  
 - [PHP File Upload](php-file-upload.md) — Uploading files with PHP
 
-### MySQL Advanced Topics
-
-- [MySQL Joins](mysql-join.md) — Combining tables  
-- [MySQL Inner Join](mysql-inner-join.md)  
-- [MySQL Left Join](mysql-left-join.md)  
-- [MySQL Right Join](mysql-right-join.md)  
-- [MySQL Cross Join](mysql-cross-join.md)  
-- [MySQL Unions](mysql-union.md) — Combine query results  
-- [MySQL Union All](mysql-union-all.md)  
-- [MySQL Aggregate Functions](mysql-count-avg-sum.md) — COUNT, AVG, SUM  
-- [MySQL Group By](mysql-group-by.md)  
-- [MySQL Having Clause](mysql-having-clause.md)  
-- [MySQL Like](mysql-like.md) — Pattern matching  
-- [MySQL Wildcards](mysql-wildcard.md)  
-- [MySQL Aliases](mysql-alias.md)  
-- [MySQL Operators](mysql-and-or-not-operators.md) — Logical operators  
-- [MySQL Data Types](mysql-data-type.md)  
-- [MySQL Constraints](mysql-constraints.md)  
-- [MySQL Not Null](mysql-not-null.md)  
-- [MySQL Unique](mysql-unique.md)  
-- [MySQL Primary Key](mysql-primary-key.md)  
-- [MySQL Foreign Key](mysql-foreign-key.md)  
-- [MySQL Check](mysql-check.md)  
-- [MySQL Default](mysql-default.md)  
-- [MySQL Indexing](mysql-create-index.md)  
-- [MySQL Auto Increment](mysql-auto-increment.md)  
-- [MySQL References](mysql-references.md)  
-
-
 ### PHP Superglobals
 
 - [PHP Superglobals Overview](php-superglobal.md) — Overview of PHP superglobals 
